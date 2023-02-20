@@ -17,3 +17,5 @@ m = max(1, 2, 3)
 print(m)
 
 print("This is the answer")
+
+calling this function will find you the greatest number
