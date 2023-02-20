@@ -1,0 +1,7 @@
+m = int(input("enter your number   "))
+
+i = 10
+while i>=1:
+    print(str(m)+" X "+str(i)+" = "+str(i*m))
+    i= i-1
+
